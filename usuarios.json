@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ricardo Emmanuel Mayorga Román",
+        "email": "Ricardo@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Marco Sebastián Hernández Parada",
+        "email": "Marco@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Juan Pablo Salazar González",
+        "email": "Juan@gmail.com"
+      },
+      {
+        "id": 4,
+        "name": "Cesar Jared Carrillo Arreola",
+        "email": "Cesar@gmail.com"
+      }
+    ]
+  }
+  
